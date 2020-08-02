@@ -23,7 +23,7 @@
                     },
                     "rotacion": {
                         "x": 8.758325576782227,
-                        "y": 111.88993835449219,
+                        "y": 111.88993072509766,
                         "z": 359.18316650390627
                     },
                     "tamaño": {
@@ -47,6 +47,22 @@
                         "x": 1081.0,
                         "y": 750.0
                     }
+                }
+            ],
+            "Pasos": [
+                {
+                    "nombre": "To-12",
+                    "posicion": {
+                        "x": 0.050371620804071429,
+                        "y": -0.30000001192092898,
+                        "z": 0.46006545424461367
+                    },
+                    "rotacion": {
+                        "x": 90.0,
+                        "y": 196.1380157470703,
+                        "z": 0.0
+                    },
+                    "panorama": "12"
                 }
             ]
         },
@@ -98,7 +114,8 @@
                         "y": 1000.0
                     }
                 }
-            ]
+            ],
+            "Pasos": []
         },
         {
             "nombre": "0t7k0Zc",
@@ -148,7 +165,8 @@
                         "y": 1116.0
                     }
                 }
-            ]
+            ],
+            "Pasos": []
         },
         {
             "nombre": "2vgzGa7",
@@ -163,7 +181,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "wsyKie4",
@@ -178,7 +197,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "1zuxCuz",
@@ -193,7 +213,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "RvO7SDq",
@@ -208,7 +229,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "QCaBG9s",
@@ -223,7 +245,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "pMiV4ae",
@@ -238,7 +261,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "IAeaXOf",
@@ -253,7 +277,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "hEsaJ2T",
@@ -268,7 +293,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "hbgAzEA",
@@ -283,7 +309,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "vx3ClPP",
@@ -298,7 +325,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "Y24h0qD",
@@ -313,7 +341,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "qTxAlBN",
@@ -328,7 +357,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "cjiiZ56",
@@ -343,7 +373,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "HhnfQ3L",
@@ -358,7 +389,8 @@
                 "y": 79.99999237060547,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "zFOvPlf",
@@ -373,7 +405,8 @@
                 "y": 79.99999237060547,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "4kRalx3",
@@ -388,7 +421,8 @@
                 "y": 180.0,
                 "z": 0.2400040477514267
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "NYejOsa",
@@ -403,7 +437,8 @@
                 "y": 180.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "ICwK6S1",
@@ -418,7 +453,8 @@
                 "y": 90.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "qy5Y2ms",
@@ -433,7 +469,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "TNc5vDN",
@@ -448,7 +485,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "FjdXim3",
@@ -463,7 +501,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "ohvM3cu",
@@ -478,7 +517,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "IGJpwlj",
@@ -493,7 +533,8 @@
                 "y": 55.51518630981445,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "riKAxDh",
@@ -508,7 +549,8 @@
                 "y": 90.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "NCfhZcC",
@@ -523,7 +565,8 @@
                 "y": 270.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "xqefq1D",
@@ -538,7 +581,8 @@
                 "y": 270.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "dWgttHo",
@@ -553,7 +597,8 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "sH9lzYa",
@@ -568,7 +613,8 @@
                 "y": 180.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "c2JgLIW",
@@ -583,7 +629,8 @@
                 "y": 90.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "oZM4CRG",
@@ -598,7 +645,8 @@
                 "y": 90.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         },
         {
             "nombre": "sI4eZZl",
@@ -613,7 +661,8 @@
                 "y": 180.0,
                 "z": 0.0
             },
-            "Productos": []
+            "Productos": [],
+            "Pasos": []
         }
     ]
 }
