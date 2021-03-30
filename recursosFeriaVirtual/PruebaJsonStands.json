@@ -1,7 +1,7 @@
 {
    "Stands":[
       {
-         "idStand":1,
+         "idStand":"1",
          "nombreStand":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
          "logoEmpresa":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools2.png",
          "bannerMostrador":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
