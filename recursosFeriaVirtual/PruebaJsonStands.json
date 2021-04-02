@@ -1,159 +1,206 @@
 {
    "Stands":[
       {
-         "idStand":"1",
-         "nombreStand":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
-         "logoEmpresa":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools2.png",
-         "bannerMostrador":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
-         "descripcionStand":"Hermosas mochilas wayuu artesanas ",
+         "idStand":17,
+         "nombreStand":"nombre2",
+         "descripcionStand":"descripcion2",
+         "logoStand":"https://www.flaticon.com/svg/vstatic/svg/4388/4388952.svg?token=exp=1617227595~hmac=28589fcfab95bdae0bd529ea5d0d378d",
+         "bannerPrincipal":"https://previews.123rf.com/images/genestro/genestro1808/genestro180800057/107453911-cartoon-birds-on-farm-banner.jpg",
+         "bannerSecundario":"https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-hand-drawn-farm-background-banner-image_152152.jpg",
          "afiches":[
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png"
+               "pendon":"a1"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/iluminacion.jpg"
+               "pendon":"a2"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/aerosoles.png"
+               "pendon":"a3"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/agro.jpg"
+               "pendon":"a4"
             }
          ],
-         "productos":[
+         "images":[
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/1.jpg"
+               "imagen":"c1"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/2.jpg"
+               "imagen":"c2"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/3.jpg"
+               "imagen":"c3c"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/4.jpg"
+               "imagen":"c4"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/5.jpg"
+               "imagen":"c5"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/6.jpg"
+               "imagen":"c6"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/7.jpg"
+               "imagen":"c7"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/8.jpg"
+               "imagen":"c8"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/10.jpg"
+               "imagen":"c9"
+            },
+            {
+               "imagen":"c10"
             }
          ],
-         "folleto":{
-            "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/temporadaIluminacion.jpg"
-         },
          "videos":[
             {
-               "urlVideo":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Video.mp4"
+               "video":"video2"
             }
          ],
-         "fkEmpresa":1,
-         "idEmpresa":1,
-         "nit":"8903221",
-         "nombreEmpresa":"Mochilas Wayuu",
-         "correoEmpresa":"mochilas@gmail.com",
-         "telefonoEmpresa":"4458956",
-         "celularEmpresa":"3135654",
-         "direccionEmpresa":"Cra 4 #2-314",
-         "ciudadEmpresa":"Cali",
-         "paisEmpresa":"Colombia",
-         "paginaEmpresa":"www.mochilas.com.co"
-      }.
-      "idStand":"3",
-         "nombreStand":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
-         "logoEmpresa":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools2.png",
-         "bannerMostrador":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png",
-         "descripcionStand":"Hermosas mochilas wayuu artesanas ",
+         "documents":[
+            {
+               "documento":"b1"
+            },
+            {
+               "documento":"b2"
+            },
+            {
+               "documento":"b3"
+            },
+            {
+               "documento":"b4"
+            },
+            {
+               "documento":"b5"
+            },
+            {
+               "documento":"b6"
+            },
+            {
+               "documento":"b7"
+            },
+            {
+               "documento":"b8"
+            },
+            {
+               "documento":"b9"
+            },
+            {
+               "documento":"b10"
+            }
+         ]
+      },
+      {
+         "idStand":18,
+         "nombreStand":"nombre1",
+         "descripcionStand":"descripcion1",
+         "logoStand":"https://www.flaticon.com/svg/vstatic/svg/4388/4388952.svg?token=exp=1617227595~hmac=28589fcfab95bdae0bd529ea5d0d378d",
+         "bannerPrincipal":"https://previews.123rf.com/images/genestro/genestro1808/genestro180800057/107453911-cartoon-birds-on-farm-banner.jpg",
+         "bannerSecundario":"https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-hand-drawn-farm-background-banner-image_152152.jpg",
          "afiches":[
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Logo.png"
+               "pendon":"Afiche1"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/iluminacion.jpg"
+               "pendon":"Afiche2"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/aerosoles.png"
+               "pendon":"Afiche3"
             },
             {
-               "url":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/agro.jpg"
+               "pendon":"Afiche4"
             }
          ],
-         "productos":[
+         "images":[
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/1.jpg"
+               "imagen":"Cupon1"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/2.jpg"
+               "imagen":"Cupon2"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/3.jpg"
+               "imagen":"Cupon3"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/4.jpg"
+               "imagen":"Cupon4"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/5.jpg"
+               "imagen":"Cupon5"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/6.jpg"
+               "imagen":"Cupon6"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/7.jpg"
+               "imagen":"Cupon7"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/8.jpg"
+               "imagen":"Cupon8"
             },
             {
-               "id":"1234",
-               "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/10.jpg"
+               "imagen":"Cupon9"
+            },
+            {
+               "imagen":"Cupon10"
             }
          ],
-         "folleto":{
-            "urlImage":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/temporadaIluminacion.jpg"
-         },
          "videos":[
             {
-               "urlVideo":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Video.mp4"
+               "video":"Video promocional Stand1"
             }
          ],
-         "fkEmpresa":1,
-         "idEmpresa":1,
-         "nit":"8903221",
-         "nombreEmpresa":"Mochilas Wayuu",
-         "correoEmpresa":"mochilas@gmail.com",
-         "telefonoEmpresa":"4458956",
-         "celularEmpresa":"3135654",
-         "direccionEmpresa":"Cra 4 #2-314",
-         "ciudadEmpresa":"Cali",
-         "paisEmpresa":"Colombia",
-         "paginaEmpresa":"www.mochilas.com.co"
+         "documents":[
+            {
+               "documento":"Brochure1"
+            },
+            {
+               "documento":"Brochure2"
+            },
+            {
+               "documento":"Brochure3"
+            },
+            {
+               "documento":"Brochure4"
+            },
+            {
+               "documento":"Brochure5"
+            },
+            {
+               "documento":"Brochure6"
+            },
+            {
+               "documento":"Brochure7"
+            },
+            {
+               "documento":"Brochure8"
+            },
+            {
+               "documento":"Brochure9"
+            },
+            {
+               "documento":"Brochure10"
+            }
+         ]
+      },
+      {
+         "idStand":19,
+         "nombreStand":"Conocimiento competitivo",
+         "descripcionStand":"Gestion de conocimiento a nivel nacional",
+         "logoStand":"http://7e431c93ebce.ngrok.io/ferias/expoartesanias/mochilas_wayuu/gestion/logo1.jpeg",
+         "bannerPrincipal":"http://7e431c93ebce.ngrok.io/ferias/expoartesanias/mochilas_wayuu/gestion/bannerP.jpeg",
+         "bannerSecundario":"http://7e431c93ebce.ngrok.io/ferias/expoartesanias/mochilas_wayuu/gestion/bannerS.jpeg",
+         "afiches":[
+            
+         ],
+         "images":[
+            
+         ],
+         "videos":[
+            
+         ],
+         "documents":[
+            
+         ]
       }
    ]
 }
