@@ -1,7 +1,7 @@
 {
    "Stands":[
       {
-         "idStand":17,
+         "idStand":1,
          "nombreStand":"nombre2",
          "descripcionStand":"descripcion2",
          "logoStand":"https://www.flaticon.com/svg/vstatic/svg/4388/4388952.svg?token=exp=1617227595~hmac=28589fcfab95bdae0bd529ea5d0d378d",
@@ -183,7 +183,7 @@
          ]
       },
       {
-         "idStand":19,
+         "idStand":2,
          "nombreStand":"Conocimiento competitivo",
          "descripcionStand":"Gestion de conocimiento a nivel nacional",
          "logoStand":"http://7e431c93ebce.ngrok.io/ferias/expoartesanias/mochilas_wayuu/gestion/logo1.jpeg",
