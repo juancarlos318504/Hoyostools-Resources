@@ -4,21 +4,21 @@
          "idStand":1,
          "nombreStand":"nombre2",
          "descripcionStand":"descripcion2",
-         "logoStand":"https://www.flaticon.com/svg/vstatic/svg/4388/4388952.svg?token=exp=1617227595~hmac=28589fcfab95bdae0bd529ea5d0d378d",
-         "bannerPrincipal":"https://previews.123rf.com/images/genestro/genestro1808/genestro180800057/107453911-cartoon-birds-on-farm-banner.jpg",
+         "logoStand":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools2.png",
+         "bannerPrincipal":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png",
          "bannerSecundario":"https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-hand-drawn-farm-background-banner-image_152152.jpg",
          "afiches":[
             {
                "pendon":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/5.jpg"
             },
             {
-               "pendon":"a2"
+               "pendon":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "pendon":"a3"
+               "pendon":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "pendon":"a4"
+               "pendon":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             }
          ],
          "images":[
@@ -26,31 +26,31 @@
                "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Productos/5.jpg"
             },
             {
-               "imagen":"c2"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c3c"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c4"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c5"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c6"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c7"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c8"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c9"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             },
             {
-               "imagen":"c10"
+               "imagen":"https://juancarlos318504.github.io/Hoyostools-Resources/recursosFeriaVirtual/Hoyostools.png"
             }
          ],
          "videos":[
